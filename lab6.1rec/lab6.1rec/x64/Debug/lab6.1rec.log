@@ -1,0 +1,3 @@
+﻿  6.1rec.cpp
+C:\Users\Lorn\source\repos\lab6.1rec\6.1rec.cpp(44,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab6.1rec.vcxproj -> C:\Users\Lorn\source\repos\lab6.1rec\x64\Debug\lab6.1rec.exe
